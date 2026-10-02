@@ -1,7 +1,7 @@
 # SignalRGB plugin: Tezarre TK63 Pro
 
 <p align="center">
-  <img src="https://static.store-cdn.com/files/19643/Images/tezarre-tk63-pro-gaming-keyboard-price-in-pakistan-junaidtec-19643-2255195-161124081125815.jpg" alt="Tezarre TK63 Pro 60% keyboard" width="420">
+  <img src="assets/tezarre-tk63-pro.png" alt="Tezarre TK63 Pro 60% keyboard" width="420">
   <br>
   <sub>The Tezarre TK63 Pro, a 63-key 60% keyboard with arrow keys.</sub>
 </p>
