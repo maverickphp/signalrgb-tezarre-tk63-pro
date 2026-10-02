@@ -1,5 +1,12 @@
 # SignalRGB plugin: Tezarre TK63 Pro
 
+<p align="center">
+  <img src="https://assets.signalrgb.com/devices/default/keyboards/65-keyboard-render.png" alt="Compact RGB keyboard" width="420">
+  <br>
+  <sub>The generic compact-keyboard picture SignalRGB shows for this device. Tezarre has no
+  official product images online; the TK63 Pro is a 63-key 60% keyboard with arrow keys.</sub>
+</p>
+
 Lets [SignalRGB](https://signalrgb.com) drive the lighting of the **Tezarre TK63 Pro** 60% keyboard
 over its USB cable (USB `0461:4003`, reported as "ROYUAN Gaming keyboard").
 
