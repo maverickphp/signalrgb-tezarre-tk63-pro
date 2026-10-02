@@ -49,7 +49,7 @@ export function Validate(endpoint) {
 }
 
 export function ImageUrl() {
-	return "https://raw.githubusercontent.com/maverickphp/signalrgb-tezarre-tk63-pro/main/assets/tezarre-tk63-pro.png";
+	return "https://raw.githubusercontent.com/maverickphp/signalrgb-tezarre-tk63-pro/main/assets/signalrgb-tezarre-tk63-pro.png";
 }
 
 function command(bytes) {
