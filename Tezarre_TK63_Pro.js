@@ -49,7 +49,7 @@ export function Validate(endpoint) {
 }
 
 export function ImageUrl() {
-	return "https://assets.signalrgb.com/devices/default/keyboards/65-keyboard-render.png";
+	return "https://raw.githubusercontent.com/maverickphp/signalrgb-tezarre-tk63-pro/main/assets/tezarre-tk63-pro.png";
 }
 
 function command(bytes) {
@@ -87,6 +87,7 @@ let lastSentAt = 0;
 
 export function Initialize() {
 	device.setName("Tezarre TK63 Pro");
+	device.setImageFromUrl(ImageUrl());
 	directMode();
 }
 

@@ -6,7 +6,7 @@ import assert from "node:assert/strict";
 const reports = [];
 let colorAt = () => [255, 0, 0];
 globalThis.device = {
-  setName() {}, log() {},
+  setName() {}, setImageFromUrl() {}, log() {},
   color: (x, y) => colorAt(x, y),
   send_report: (data, len) => reports.push({ data: data.slice(), len }),
 };
